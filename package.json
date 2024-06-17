@@ -1,13 +1,11 @@
 {
-  "name": "typescript-action",
-  "description": "GitHub Actions TypeScript template",
+  "name": "auto-release-draft",
+  "description": "Drafts a github release",
   "version": "0.0.0",
-  "author": "",
   "private": true,
-  "homepage": "https://github.com/actions/typescript-action",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/typescript-action.git"
+    "url": "git+https://github.com/MSmirnoviPipeline/auto-release-draft.git"
   },
   "bugs": {
     "url": "https://github.com/actions/typescript-action/issues"

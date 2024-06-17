@@ -18,6 +18,8 @@ inputs:
 outputs:
   time:
     description: 'Your output description here'
+  release-url:
+    description: 'Url of the github release'
 
 runs:
   using: node20
